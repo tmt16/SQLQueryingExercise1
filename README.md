@@ -1,1 +1,1 @@
-# SQLQueryingExercise1
+# SQLQueryingExercise
